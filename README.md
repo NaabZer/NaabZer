@@ -13,7 +13,7 @@ technologies:
   - "Backend"
   - "Frontend"
 current_projects: 
-  - <a hreg="https://github.com/Archipelago-Manager">Archipelago-Manager</a>
+  - <a href="https://github.com/Archipelago-Manager">Archipelago-Manager</a>
   </code>
 </pre>
 
