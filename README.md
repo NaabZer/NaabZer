@@ -35,7 +35,8 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
 <hr>
 
 
-<div align="center" style="margin:8px;"><b>Languages/Tools</b></div>
+<div align="center"><b>Languages/Tools</b></div>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
@@ -57,7 +58,8 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
   <img src="https://skillicons.dev/icons?i=debian" title="Debian"/>
   <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/>
 </p>
-<div align="center" style="margin:8px;"><b>Currently Learning</b></div>
+<div align="center"><b>Currently Learning</b></div>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi" title="fastapi"/>
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
