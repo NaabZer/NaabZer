@@ -35,8 +35,8 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
 <hr>
 
 
+<div align="center" style="margin:8px;"><b>Languages/Tools</b></div>
 <p align="center">
-  Languages/Tools<br>
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=js" title="Javascript"/>
@@ -57,8 +57,8 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
   <img src="https://skillicons.dev/icons?i=debian" title="Debian"/>
   <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/>
 </p>
+<div align="center" style="margin:8px;"><b>Currently Learning</b></div>
 <p align="center">
-  Currently Learning<br>
   <img src="https://skillicons.dev/icons?i=fastapi" title="fastapi"/>
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
   <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
@@ -72,4 +72,3 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
   <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
   <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
 </p>
-
