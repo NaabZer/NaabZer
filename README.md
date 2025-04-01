@@ -37,11 +37,39 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
 
 <p align="center">
   Languages/Tools<br>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,cpp,html,css,bash,latex,linux,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=react,postgres,debian,arch,docker,vim,git,github,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=js" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+  <img src="https://skillicons.dev/icons?i=latex" title="LaTeX"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=vim" title="Vim"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=debian" title="Debian"/>
+  <img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/>
 </p>
 <p align="center">
   Currently Learning<br>
-  <img src="https://skillicons.dev/icons?i=fastapi,githubactions,nextjs,nodejs,prometheus,grafana,tailwind,ts,vite,aws,discordjs" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="fastapi"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=discordjs" title="discord.js"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
 </p>
 
