@@ -48,9 +48,9 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
   <img src="https://skillicons.dev/icons?i=latex" title="LaTeX"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
-  <br>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=vim" title="Vim"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
@@ -74,3 +74,25 @@ current_goals: ["Move to Japan", "Create my first SaaS", "Learn new techologies"
   <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
   <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
 </p>
+
+## Current projects
+#### [Archipelago-Manager](https://github.com/Archipelago-Manager)
+Manager for archipelago servers, built for ease of use and increased functionality like discord integration and notifications.
+
+**Teaches me**:
+<br/>
+FastAPI | Pydantic | Alembic | pytest | GitHub Action | Cloud Hosting | SaaS | AWS | Kubernetes | discord.js
+
+#### [Recipies-for-llms](https://github.com/NaabZer/recipes_for_llms)
+LLM chatbot specialized in recipe queries using MLOps pipelines and text mining techniques. Project to learn MLOps and LLM RAG.
+
+**Teaches me**:
+<br/>
+LLM | LLM Agents | MLOps | spaCy | MLFlow | Prefect | DuckDB | Parquet | GraphDB
+
+#### [Personal Blog](https://github.com/NaabZer/blog)
+Personal SSR static website/blog/recipe-blog using React, Next.js and TypeScript.
+
+**Teaches me**:
+<br/>
+Next.js | TypeScript | Server-side Rendering
